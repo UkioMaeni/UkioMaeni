@@ -15,7 +15,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pie_company) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353786691921903616) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priz.a47@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=UkioMaeni&icon=2&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=UkioMaeni&icon=2&color=3)
 
 </h2>
 
