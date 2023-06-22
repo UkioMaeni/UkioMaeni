@@ -1,9 +1,8 @@
-<h2>
+<div>
     <h2 align="center"  >Hi there, I'm Andrew Pie<br>Frontend, web and mobile developer
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
     </h2>
-    <h3 align="center"></h3>
-</h2>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
